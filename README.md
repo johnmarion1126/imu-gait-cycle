@@ -1,5 +1,5 @@
 # IMU-Gait-Cycle
-Detecting Gait phases using raw data from an IMU. This project uses the MPU-6050 and stores the data into a SD card.
+Detecting Gait phases using raw data from an IMU.
 
 ## Part List
 1. Arduino Nano - [Amazon](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923)
