@@ -1,5 +1,8 @@
 # IMU-Gait-Cycle
-Detecting Gait phases using raw data from an IMU.
+An Ardunio project that uses IMU sensors to detect the current gait phase of the user. Information from this design can be used in rehabilitation, injury prevention, and identification.
+
+## Gait
+Gait refers to the style of a person's walk. One gait cycle is broken into two phases, the swing phase and the stance phase. Those two phases are also broken down into other subphases. Stance phase makes up 60% of the cycle and includes the initial contact, loading response, midstance, terminal stance, and pre-swing. While swing phase is 40% of the cycle and involves the initial swing, mid-swing, and late swing.
 
 ## Part List
 1. Arduino Nano - [Amazon](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923)
@@ -10,6 +13,6 @@ Detecting Gait phases using raw data from an IMU.
 6. Bread Board - [Amazon](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_3?dchild=1&keywords=breadboard&qid=1609301104&sr=8-3)
 
 ## References
-[MPU Calibration](https://wired.chillibasket.com/2015/01/calibrating-mpu6050/)
-
-[MPU Code](https://maker.pro/arduino/tutorial/how-to-interface-arduino-and-the-mpu-6050-sensor)
+* [Gait Notes](https://www.physio-pedia.com/Gait) 
+* [MPU Calibration](https://wired.chillibasket.com/2015/01/calibrating-mpu6050/)
+* [MPU Code](https://maker.pro/arduino/tutorial/how-to-interface-arduino-and-the-mpu-6050-sensor)
