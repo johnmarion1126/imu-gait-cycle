@@ -11,7 +11,11 @@ Gait refers to the style of a person's walk. One gait cycle can be broken into t
 ## Design
 Each gait phase has its own unique [characteristics](https://www.youtube.com/watch?v=QAnEhz6Eqn4). By placing our device besides the knee on a horizontal position pointing down, we can use the [yaw](https://www.youtube.com/watch?v=pQ24NtnaLl8) calculated from the sensor to find the current angle of the knee. With these information, we can determine if the person is in a stance phase or swing phase plus its other subphases as well. 
 
-## Part List
+<p align="center">
+  <img src="walkWithSensor.jpg" width="500">
+</p>
+
+### Part List
 1. [Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923) - Allows us to use Arduino to program our sensors and collect data.
 2. [MPU-6050](https://www.adafruit.com/product/3886) - Uses an accelerometer, an gyroscope, and an magnetometer to caculate the yaw, pitch, and roll.
 3. [SD Card Logger](https://www.adafruit.com/product/254) - Stores data from the MPU-6050.
