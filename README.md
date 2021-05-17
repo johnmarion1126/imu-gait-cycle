@@ -1,5 +1,5 @@
 # IMU-Gait-Cycle
-An Ardunio project that uses IMU sensors to detect the current gait phase of the user. Information from this design can be used in rehabilitation, injury prevention, and identification.
+An Ardunio project that uses IMU sensors to detect the gait phases. Data collected from this design can be used for rehabilitation, injury prevention, or identification.
 
 ## Gait
 Gait refers to the style of a person's walk. One gait cycle is broken into two phases, the swing phase and the stance phase. Those two phases are also broken down into other subphases. Stance phase makes up 60% of the cycle and includes the initial contact, loading response, midstance, terminal stance, and pre-swing. While swing phase is 40% of the cycle and involves the initial swing, mid-swing, and late swing.
