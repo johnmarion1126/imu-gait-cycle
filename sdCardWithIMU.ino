@@ -1,3 +1,6 @@
+// Calculates yaw, pitch, and roll
+// Stores them into the SD card
+
 #include "I2Cdev.h"
 #include <SD.h>
 #include "MPU6050_6Axis_MotionApps20.h"
