@@ -23,6 +23,12 @@ Each gait phase has its own unique [characteristics](https://www.youtube.com/wat
 5. [Battery Clip](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_3?dchild=1&keywords=breadboard&qid=1609301104&sr=8-3) - Connects the battery to Arduino Nano
 6. [Bread Board](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_3?dchild=1&keywords=breadboard&qid=1609301104&sr=8-3) - Used for prototyping.
 
+### Prototype
+  <img src="design.jpg" width="500">
+
+### Wiring
+  <img src="wiring.PNG" width="500">
+
 ## References
 * [Gait Definition](https://www.physio-pedia.com/Gait) 
 * [Gait Breakdown](https://www.youtube.com/watch?v=QAnEhz6Eqn4)
