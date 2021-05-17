@@ -2,7 +2,7 @@
 An Ardunio project that uses IMU sensors to detect the gait phases. Data collected from this design can be used for rehabilitation, injury prevention, or identification.
 
 ## Gait
-Gait refers to the style of a person's walk. One gait cycle is broken into two phases, the swing phase and the stance phase. Those two phases are also broken down into other subphases. Stance phase makes up 60% of the cycle and includes the initial contact, loading response, midstance, terminal stance, and pre-swing. While swing phase is 40% of the cycle and involves the initial swing, mid-swing, and late swing.
+Gait refers to the style of a person's walk. One gait cycle is broken into two phases, the swing phase and the stance phase. Those two phases are further broken down into other subphases. Stance phase makes up 60% of the cycle and includes the initial contact, loading response, midstance, terminal stance, and pre-swing. While swing phase is 40% of the cycle and involves the initial swing, mid-swing, and late swing.
 
 ## Part List
 1. Arduino Nano - [Amazon](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923)
