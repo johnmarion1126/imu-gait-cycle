@@ -34,3 +34,4 @@ Each gait phase has its own unique [characteristics](https://www.youtube.com/wat
 * [Gait Breakdown](https://www.youtube.com/watch?v=QAnEhz6Eqn4)
 * [MPU Calibration](https://wired.chillibasket.com/2015/01/calibrating-mpu6050/)
 * [MPU Code](https://maker.pro/arduino/tutorial/how-to-interface-arduino-and-the-mpu-6050-sensor)
+* [SD Card Logger SetUp](https://howtomechatronics.com/tutorials/arduino/arduino-sd-card-data-logging-excel-tutorial/)
